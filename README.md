@@ -10,6 +10,11 @@ Lite: without Desktop, 8GC10 or large, TF card,
 # for BPi-M2u 1G DDR
 Desktop: with Desktop, HDMI output 720p, mouse,keyboard operation. 16GC10 TF card.
 
+
+# for BPi-M5 4G DDR
+Coming soon ...  follow https://www.facebook.com/cqcqcq73
+
+
 # Upadte source
 Dashboard web: https://github.com/bi7jta/W0CHP-PiStar-Dash_BPiM2
 
