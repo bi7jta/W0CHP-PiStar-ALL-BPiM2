@@ -21,8 +21,15 @@ Bin source : https://github.com/bi7jta/W0CHP-CustomBinaries-Source_BPiM2
 
 # Feecback issue
 IMG: https://github.com/bi7jta/W0CHP-PiStar-ALL-BPiM2/issues
+
 Web:  https://github.com/bi7jta/W0CHP-PiStar-Dash_BPiM2/issues
+
 Scripts: https://github.com/bi7jta/W0CHP-PiStar-sbin_BPiM2/issues
+
 Bins: https://github.com/bi7jta/W0CHP-PiStar-bin_BPiM2/issues
+
+Contact: https://www.facebook.com/winters.cn
+
+DE BI7JTA
 
 
