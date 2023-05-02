@@ -32,7 +32,7 @@ bin source : https://github.com/bi7jta/W0CHP-CustomBinaries-Source_BPiM2
 Open child's issues menu ,commit your problem.
  
 
-# Countact me
+# Contact me
 Facebook https://www.facebook.com/winters.cn
 
 DE BI7JTA
