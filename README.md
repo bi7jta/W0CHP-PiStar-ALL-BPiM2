@@ -29,9 +29,17 @@ bin source : https://github.com/bi7jta/W0CHP-CustomBinaries-Source_BPiM2
 Open child's issues menu ,commit your problem.
  
 
-#Countact me
+# Countact me
 Facebook https://www.facebook.com/winters.cn
 
 DE BI7JTA
 
+
+# Previews
+
+![image](https://github.com/bi7jta/W0CHP-PiStar-ALL-BPiM2/blob/main/screenshots/MMDVM-Pod-list-M2u-M2z.jpeg)
+
+![image](https://github.com/bi7jta/W0CHP-PiStar-ALL-BPiM2/blob/main/screenshots/3D-7inch-BPi-M2u-HDMI.jpeg)
+
+More: https://github.com/bi7jta/W0CHP-PiStar-ALL-BPiM2/tree/main/screenshots
 
