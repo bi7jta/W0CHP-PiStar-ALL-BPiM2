@@ -25,7 +25,7 @@ bin: https://github.com/bi7jta/W0CHP-PiStar-bin_BPiM2
 
 bin source : https://github.com/bi7jta/W0CHP-CustomBinaries-Source_BPiM2
 
-# Feecback issue
+# Feedback issue
 Open child's issues menu ,commit your problem.
  
 
