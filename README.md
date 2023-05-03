@@ -1,10 +1,13 @@
+Source from https://w0chp.net/w0chp-pistar-dash/ Thanks W0CHP give big help.
+
+Also thanks: PY4Ei https://www.facebook.com/alanfagundess
+
 # Purpose
 The summary information for BPi-M2 Pi-Star project
 
 # Download IMG file
 https://drive.google.com/drive/folders/1B9ljcdoZTqquHg8daQKgPCVpCUlpGLFZ?usp=sharing
 
-# Update
 ## for BPi-M2z 512M DDR
 Lite: without Desktop, 8GC10 or large, TF card,
 
@@ -29,9 +32,17 @@ bin source : https://github.com/bi7jta/W0CHP-CustomBinaries-Source_BPiM2
 Open child's issues menu ,commit your problem.
  
 
-#Countact me
+# Contact me
 Facebook https://www.facebook.com/winters.cn
 
 DE BI7JTA
 
+
+# Previews
+
+![image](https://github.com/bi7jta/W0CHP-PiStar-ALL-BPiM2/blob/main/screenshots/MMDVM-Pod-list-M2u-M2z.jpeg)
+
+![image](https://github.com/bi7jta/W0CHP-PiStar-ALL-BPiM2/blob/main/screenshots/3D-7inch-BPi-M2u-HDMI.jpeg)
+
+More: https://github.com/bi7jta/W0CHP-PiStar-ALL-BPiM2/tree/main/screenshots
 
