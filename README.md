@@ -2,6 +2,10 @@ Source from https://w0chp.net/w0chp-pistar-dash/ Thanks W0CHP give big help.
 
 Also thanks: PY4Ei https://www.facebook.com/alanfagundess
 
+BPi-M2u OS preview
+
+![image](https://github.com/bi7jta/W0CHP-PiStar-ALL-BPiM2/blob/main/screenshots/RPi-Desktop-View.jpeg)
+
 # Purpose
 The summary information for BPi-M2 Pi-Star project
 
