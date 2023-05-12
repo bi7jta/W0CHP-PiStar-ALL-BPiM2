@@ -39,8 +39,11 @@ Open child's issues menu ,commit your problem.
 # Contact me
 Facebook https://www.facebook.com/winters.cn
 
-DE BI7JTA
+Telegram group https://t.me/+HTzVv--5ZLs1YWU1
 
+YouTube: https://youtube.com/winters_huang
+
+Get MMDVM hardware and more support https://www.bi7jta.org/shop
 
 # Previews
 
