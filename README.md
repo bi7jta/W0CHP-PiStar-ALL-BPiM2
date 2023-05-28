@@ -34,6 +34,8 @@ bin source : https://github.com/bi7jta/W0CHP-CustomBinaries-Source_BPiM2
 
 # Feedback issue
 Open child's issues menu ,commit your problem.
+
+Discord group: https://discord.gg/NT6GKF6jUz
  
 
 # Contact me
