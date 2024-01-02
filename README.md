@@ -21,9 +21,15 @@ https://github.com/bi7jta/BI7JTA-PiStar-bin_RPi4B
 
 https://github.com/bi7jta/W0CHP-CustomBinaries-Source_BPiM2
 
+
+
 IMG Download for for BPiM2 betty, BPiM2z: 
 
-https://drive.google.com/drive/folders/1B9ljcdoZTqquHg8daQKgPCVpCUlpGLFZ?usp=sharing
+for BPiM2, 1G RAM, https://drive.google.com/drive/folders/1rdo-ubDx7-jWKAF7aBeiNfyVrr_WfYeD?usp=sharing
+
+for BPiM2z, 512M RAM, https://drive.google.com/drive/folders/1_vt5qpS1pQ66oB9Amj4K3XLwUU7XTZ9u?usp=sharing
+
+
 
 IMG Download for for Raspberry Pi 4B/3B (Recommend 4B2G+), add extension Allstarlink(SIP/IAX), DVSwitch, Pi-Star FM Netork connect to Allstarlink use USRP protocal(Need MMDVM Repeater kit from @BI7JTA) : 
 
